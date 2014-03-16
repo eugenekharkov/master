@@ -1,0 +1,6 @@
+M:\Ciklum\Ciklum\Ciklum.TestConsole\bin\Debug\Ciklum.TestConsole.exe.config
+M:\Ciklum\Ciklum\Ciklum.TestConsole\bin\Debug\Ciklum.TestConsole.exe
+M:\Ciklum\Ciklum\Ciklum.TestConsole\bin\Debug\Ciklum.TestConsole.pdb
+M:\Ciklum\Ciklum\Ciklum.TestConsole\obj\Debug\Ciklum.TestConsole.csprojResolveAssemblyReference.cache
+M:\Ciklum\Ciklum\Ciklum.TestConsole\obj\Debug\Ciklum.TestConsole.exe
+M:\Ciklum\Ciklum\Ciklum.TestConsole\obj\Debug\Ciklum.TestConsole.pdb

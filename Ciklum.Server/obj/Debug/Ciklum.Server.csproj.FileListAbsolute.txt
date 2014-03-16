@@ -1,0 +1,7 @@
+M:\Ciklum\Ciklum\Ciklum.Server\bin\Ciklum.Server.dll
+M:\Ciklum\Ciklum\Ciklum.Server\bin\Ciklum.Server.pdb
+M:\Ciklum\Ciklum\Ciklum.Server\bin\Ciklum.Types.dll
+M:\Ciklum\Ciklum\Ciklum.Server\bin\Ciklum.Types.pdb
+M:\Ciklum\Ciklum\Ciklum.Server\obj\Debug\Ciklum.Server.csprojResolveAssemblyReference.cache
+M:\Ciklum\Ciklum\Ciklum.Server\obj\Debug\Ciklum.Server.dll
+M:\Ciklum\Ciklum\Ciklum.Server\obj\Debug\Ciklum.Server.pdb

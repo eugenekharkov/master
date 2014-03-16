@@ -1,0 +1,5 @@
+M:\Ciklum\Ciklum\Ciklum.Types\bin\Debug\Ciklum.Types.dll
+M:\Ciklum\Ciklum\Ciklum.Types\bin\Debug\Ciklum.Types.pdb
+M:\Ciklum\Ciklum\Ciklum.Types\obj\Debug\Ciklum.Types.csprojResolveAssemblyReference.cache
+M:\Ciklum\Ciklum\Ciklum.Types\obj\Debug\Ciklum.Types.dll
+M:\Ciklum\Ciklum\Ciklum.Types\obj\Debug\Ciklum.Types.pdb

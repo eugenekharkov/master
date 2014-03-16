@@ -1,0 +1,14 @@
+M:\Ciklum\Ciklum\Ciklum.Client\bin\Debug\Ciklum.Client.exe.config
+M:\Ciklum\Ciklum\Ciklum.Client\bin\Debug\Ciklum.Client.exe
+M:\Ciklum\Ciklum\Ciklum.Client\bin\Debug\Ciklum.Client.pdb
+M:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.csprojResolveAssemblyReference.cache
+M:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.MainWindow.resources
+M:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.Properties.Resources.resources
+M:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.csproj.GenerateResource.Cache
+M:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.exe
+M:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.pdb
+M:\Ciklum\Ciklum\Ciklum.Client\bin\Debug\Ciklum.Types.dll
+M:\Ciklum\Ciklum\Ciklum.Client\bin\Debug\Ciklum.Types.pdb
+E:\Ciklum\Ciklum\Ciklum.Client\bin\Debug\Ciklum.Client.exe.config
+E:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.exe
+E:\Ciklum\Ciklum\Ciklum.Client\obj\Debug\Ciklum.Client.pdb
